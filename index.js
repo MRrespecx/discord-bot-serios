@@ -43,4 +43,3 @@ client.on("message", async message => {
  
  
 });
-bot.login(process.env.token);
