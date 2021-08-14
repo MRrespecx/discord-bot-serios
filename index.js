@@ -39,7 +39,5 @@ client.on("message", async message => {
  
         return message.channel.send("the jungle leader");
 
-        
- 
- 
+    
 });
