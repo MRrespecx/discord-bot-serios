@@ -1,0 +1,21 @@
+{
+  "name": "aap_bot-_2",
+  "version": "1.0.0",
+  "description": "discord bot maritaapje",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "discordbot"
+  ],
+  "author": "MRrespecx",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0-dev.1628899443.615afab"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
